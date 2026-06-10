@@ -1,0 +1,47 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Technology for biodiversity",
+    "author": [
+        {
+            "id": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Pôle National des Données de Biodiversité"
+            },
+            "email": "francis.clement@essec.edu",
+            "familyName": "CLEMENT",
+            "givenName": "Francis"
+        },
+        {
+            "type": "Role",
+            "schema:author": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "roleName": "Chief Operating Officer",
+            "startDate": "2025-02-25"
+        }
+    ],
+    "codeRepository": "https://github.com/FCLMNHN/Pub.RetrieverX",
+    "dateCreated": "2026-06-10",
+    "dateModified": "2026-06-10",
+    "datePublished": "2026-06-10",
+    "description": "Title, abstract and publisher retriever from first name and surname.",
+    "downloadUrl": "https://github.com/FCLMNHN/Pub.RetrieverX",
+    "keywords": [
+        "Publication retriever",
+        "Publisher retriever"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Pub.RetrieverX",
+    "operatingSystem": [
+        "MacOS",
+        "Linux",
+        "Unix",
+        "Windows"
+    ],
+    "programmingLanguage": "Python",
+    "relatedLink": "https://www.pnfb.fr",
+    "releaseNotes": "Version 2.0.0 of PubRetriever marks a major transition. From a simple script for extracting ORCID profiles, the tool has evolved into an intelligent documentation pipeline, capable of restructuring and cleaning up missing textual data (titles/abstracts) and overcoming secondary citation biases (such as redirects to HAL) to identify the true repository or original publisher of a scientific publication.",
+    "version": "2.0",
+    "issueTracker": "https://github.com/FCLMNHN/Pub.RetrieverX/issues"
+}
