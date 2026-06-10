@@ -37,3 +37,7 @@ Le projet nécessite Python 3.7+ et les bibliothèques suivantes :
 
 ### Installation
 1. Clonez ce dépôt ou téléchargez le script.
+
+### Usage
+1. Positionner le script et le fichier .xlsx dans le même répertoire
+2. Lancer le script dans un terminal poisitionné (cd) sur ce répertoire par la commande 'Python Pub.RetrieverX.py'
