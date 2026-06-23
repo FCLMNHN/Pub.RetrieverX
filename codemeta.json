@@ -26,7 +26,7 @@
     "dateModified": "2026-06-10",
     "datePublished": "2026-06-10",
     "description": "Title, abstract and publisher retriever from first name and surname.",
-    "downloadUrl": "https://github.com/FCLMNHN/Pub.RetrieverX",
+    "downloadUrl": "https://github.com/FCL-DataIA/Pub.RetrieverX",
     "keywords": [
         "Publication retriever",
         "Publisher retriever"
@@ -43,5 +43,5 @@
     "relatedLink": "https://www.pnfb.fr",
     "releaseNotes": "Version 2.0.0 of PubRetriever marks a major transition. From a simple script for extracting ORCID profiles, the tool has evolved into an intelligent documentation pipeline, capable of restructuring and cleaning up missing textual data (titles/abstracts) and overcoming secondary citation biases (such as redirects to HAL) to identify the true repository or original publisher of a scientific publication.",
     "version": "2.0",
-    "issueTracker": "https://github.com/FCLMNHN/Pub.RetrieverX/issues"
+    "issueTracker": "https://github.com/FCL-DataIA/Pub.RetrieverX/issues"
 }
